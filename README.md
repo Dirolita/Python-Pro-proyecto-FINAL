@@ -1,2 +1,21 @@
-# Python-Pro-proyecto-FINAL
-App web realizada con python,La web consulta una API de calidad del aire y guarda registros diarios en la base de datos, Muestra un historial y alertas si los niveles son peligrosos.
+# ECOFUTURO
+Plataforma web para compartir ideas de tecnologia ecológicas del futuro
+
+## Descripción 
+Este proyecto permite publiocar, visualizar y dar "me gusta# a ideas inovadoras
+
+## Tecnologías usadas
+-python
+-flask
+-sqlAlquemy
+-HTML/CSS
+-discord
+-google 
+
+## COMANDOS
+HI = PRESE
+RETOS =
+RECICLAR (OBJETO)
+
+## Información
+...
